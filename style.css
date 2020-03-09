@@ -1,0 +1,12 @@
+.Box {
+  height: 256px;
+  width: 256px;
+  position: absolute;
+}
+.Red {
+  background-color: #f00;
+}
+.Blue {
+  background-color: #004eff;
+  left: 128px;
+}
