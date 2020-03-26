@@ -1,12 +1,12 @@
-.Box {
+.box {
   height: 256px;
   width: 256px;
   position: absolute;
 }
-.Red {
+.red {
   background-color: #ff0000;
 }
-.Blue {
+.blue {
   background-color: #004eff;
   left: 128px;
 }
